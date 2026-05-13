@@ -1,7 +1,10 @@
 function main(config, profileName) {
   const blockedNodeKeywords = [
     "更新订阅",
-    "特殊时期"
+    "特殊时期",
+    "故障",
+    "GB",
+    "Expire"
   ];
 
   const aiGroupName = "AI代理";
